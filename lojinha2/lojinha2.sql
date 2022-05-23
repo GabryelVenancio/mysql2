@@ -16,3 +16,5 @@ create table produtos (
 show tables;
 
 describe produtos;
+
+select * from produtos;

@@ -36,6 +36,9 @@ values ('5','TÊNIS TRAE YOUNG 1','50','649.00');
 insert into produtos(codigo,produto,quantidade,valor)
 values ('6','Air Force 1','400','399.00');
 
+insert into produtos(codigo,produto,quantidade,valor)
+values ('7','CURRY 9 SESAME STREET','100','400.00');
+
 -- CRUD READ
 select * from produtos;
 
